@@ -16,7 +16,6 @@ def banner():
    ██║   ██████╔╝╚██████╔╝██║  ██║      ███████║╚██████╔╝███████╗
    ╚═╝   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝      ╚══════╝ ╚══▀▀═╝ ╚══════╝
                                                                  
-                                author:果冻
 """
     colored_color = colored(test, 'blue')
     print(colored_color)
