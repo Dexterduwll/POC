@@ -8,9 +8,7 @@ requests.packages.urllib3.disable_warnings()
 def banner():
     # 打印横幅信息，包含作者、日期和版本
     test = """   
-                                   author:MOYV  
-                                   date:2024/09/03  
-                                   version:1.0  
+    
 """
     print(test)  # 打印横幅
 
